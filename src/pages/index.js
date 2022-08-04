@@ -124,6 +124,7 @@ const links = [
 ]
 
 const IndexPage = () => {
+  console.log("a");
   return (
     <main style={pageStyles}>
       <h1 style={headingStyles}>
