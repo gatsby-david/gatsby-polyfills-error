@@ -18,5 +18,6 @@
     "gatsby": "^4.20.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
-  }
+  },
+  "browserslist": [">0.25%", "not dead", "IE 11"]
 }
